@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbabazi12
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,css,javascript
+- 👀 I’m interested in web & mobile development 
+- 🌱 I’m currently learning reactnative, graphql, and typescript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mbabazi069@gmail.com 
 
