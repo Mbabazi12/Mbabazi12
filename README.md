@@ -39,3 +39,8 @@ Currently, I’m sharpening my skills in backend development and working towards
 I enjoy turning real-world ideas into working systems using clean and structured code.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbabazi12&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
