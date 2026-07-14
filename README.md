@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Mbabazi Diane
 
+![](https://komarev.com/ghpvc/?username=Mbabazi12&color=blue)
+
 ## 🚀 About Me
 
 I’m a passionate developer focused on building modern **web and mobile applications**.
